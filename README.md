@@ -27,3 +27,10 @@ TBD
 
 ### Authentication
 @whi-tw also wrote an excellent documentation about [authentication workflow](https://github.com/whi-tw/bmw-cardata-streaming-poc/blob/main/AUTHENTICATION.md) which is a lot more specific than the official integration guide.
+
+
+## Maintenance of this project
+
+I'm doing this only sporadically, this project should better be owned and fed by some BMW employee.
+
+Use issues to communicate the problems to the community, but don't expect anything from me.
