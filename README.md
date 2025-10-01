@@ -23,7 +23,7 @@ https://bmw-cardata.bmwgroup.com/customer/public/api-documentation
 
 ### API
 
-TBD
+A work-in-progress implementation with streaming and api calling combined can be found here https://github.com/JjyKsi/bmw-cardata-ha . There's also quite some discussion of issues there.
 
 ### Authentication
 @whi-tw also wrote an excellent documentation about [authentication workflow](https://github.com/whi-tw/bmw-cardata-streaming-poc/blob/main/AUTHENTICATION.md) which is a lot more specific than the official integration guide.
